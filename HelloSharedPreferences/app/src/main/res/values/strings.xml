@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Shared Preferences</string>
+    <string name="black_button">Black</string>
+    <string name="red_button">Red</string>
+    <string name="blue_button">Blue</string>
+    <string name="green_button">Green</string>
+    <string name="count_button">Count</string>
+    <string name="reset_button">Reset</string>
+    <string name="zero">0</string>
+</resources>
